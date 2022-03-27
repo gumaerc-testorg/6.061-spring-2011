@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Quizzes
 parent_type: CourseSection
+parent_uid: 71fd169d-3022-4bf6-62f1-1799820c401b
 resourcetype: Document
 title: MIT6_061S11_quiz02_sol.pdf
 uid: fe287d53-c98e-b562-1250-e20ded4e23b5
