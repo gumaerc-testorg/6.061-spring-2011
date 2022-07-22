@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Quizzes
 uid: 71fd169d-3022-4bf6-62f1-1799820c401b
 ---
