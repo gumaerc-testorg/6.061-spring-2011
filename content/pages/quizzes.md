@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the two course quizzes along with solutions.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -22,19 +23,19 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Quiz 1 ([PDF]({{< baseurl >}}/resources/mit6_061s11_quiz01))
+Quiz 1 ({{% resource_link e0adf98d-5779-11f0-720a-00a67cf7a861 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_061s11_quiz01_sol))
+({{% resource_link fc1c6564-72bc-756c-25d5-e7f036082fc0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Quiz 2 ([PDF]({{< baseurl >}}/resources/mit6_061s11_quiz02))
+Quiz 2 ({{% resource_link 204935b0-3927-14e1-e34a-018024ea6ec9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_061s11_quiz02_sol))
+({{% resource_link fe287d53-c98e-b562-1250-e20ded4e23b5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
