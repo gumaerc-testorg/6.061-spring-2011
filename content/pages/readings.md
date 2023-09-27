@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides an introduction to the course notes, information
+  on a textbook derived from the notes, and a set of course notes arranged by topic.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -46,7 +48,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Review of network theory ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch1))
+Review of network theory ({{% resource_link d79822ef-5fbd-b21b-1c44-e1b3b8282453 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +57,7 @@ Review of network theory ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch1))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-AC power flow in linear networks ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch2))
+AC power flow in linear networks ({{% resource_link 9cf8de16-5233-601f-547b-284cee5c2131 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +66,7 @@ AC power flow in linear networks ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Polyphase networks ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch3))
+Polyphase networks ({{% resource_link c6393a58-3192-00a5-3447-52de0cf47ec4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -73,7 +75,7 @@ Polyphase networks ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch3))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to symmetrical components ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch4))
+Introduction to symmetrical components ({{% resource_link 7603169f-5d85-14b7-69a4-6fa900b79a57 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,7 +84,7 @@ Introduction to symmetrical components ([PDF]({{< baseurl >}}/resources/mit6_061
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to load flow ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch5))
+Introduction to load flow ({{% resource_link 2f9042dd-664b-5bd0-7e4b-5d4cb4930062 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +93,7 @@ Introduction to load flow ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch5))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Magnetic circuit analog to electric circuits ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch6))
+Magnetic circuit analog to electric circuits ({{% resource_link b0be7bc0-996b-1a78-e255-04a32819cb6f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -109,7 +111,7 @@ Power electric motor drives
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Electromagnetic forces and loss mechanisms ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch8))
+Electromagnetic forces and loss mechanisms ({{% resource_link c26f6204-e05b-d4c4-7875-a96452982b6f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -118,7 +120,7 @@ Electromagnetic forces and loss mechanisms ([PDF]({{< baseurl >}}/resources/mit6
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Synchronous machine and winding models ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch9))
+Synchronous machine and winding models ({{% resource_link f99554aa-9237-48fa-210a-30a874ee5fc8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +129,7 @@ Synchronous machine and winding models ([PDF]({{< baseurl >}}/resources/mit6_061
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Analytic design evaluation of induction machines ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch10))
+Analytic design evaluation of induction machines ({{% resource_link 01f87836-6fe6-51f1-b95e-9ed7fc24c644 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,7 +138,7 @@ Analytic design evaluation of induction machines ([PDF]({{< baseurl >}}/resource
 11
 {{< tdclose >}}
 {{< tdopen >}}
-DC (commutator) and permanent magnet machines ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch11))
+DC (commutator) and permanent magnet machines ({{% resource_link 22956cb9-3817-f9ed-abec-d0731b51dd1b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -145,7 +147,7 @@ DC (commutator) and permanent magnet machines ([PDF]({{< baseurl >}}/resources/m
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Permanent magnet "Brushless DC" motors ([PDF]({{< baseurl >}}/resources/mit6_061s11_ch12))
+Permanent magnet "Brushless DC" motors ({{% resource_link 36e8b4e8-6968-267b-c703-0941f020b2af "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
