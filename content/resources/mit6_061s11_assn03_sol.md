@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains solutions to assignment 3.
 file: /courses/6-061-introduction-to-electric-power-systems-spring-2011/84da8867cccea89c692d93a3902f5545_MIT6_061S11_assn03_sol.pdf
+file_size: 348146
 file_type: application/pdf
 learning_resource_types:
 - Assignments
