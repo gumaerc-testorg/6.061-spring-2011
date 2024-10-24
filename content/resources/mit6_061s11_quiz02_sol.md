@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions to quiz 2.
-file: /courses/6-061-introduction-to-electric-power-systems-spring-2011/fe287d53c98eb5621250e20ded4e23b5_MIT6_061S11_quiz02_sol.pdf
+file: /ol-ocw-studio-app/courses/6-061-introduction-to-electric-power-systems-spring-2011/fe287d53c98eb5621250e20ded4e23b5_MIT6_061S11_quiz02_sol.pdf
 file_size: 81871
 file_type: application/pdf
 learning_resource_types:
