@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for simple load flow program.
-file: /ol-ocw-studio-app/courses/6-061-introduction-to-electric-power-systems-spring-2011/aa01b8d3216c059dc523d2d760fd8ffc_assn07.m
+file: /courses/6-061-introduction-to-electric-power-systems-spring-2011/aa01b8d3216c059dc523d2d760fd8ffc_assn07.m
 file_size: 3226
 file_type: text/x-objcsrc
 learning_resource_types:
