@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions to assignment 8.
-file: /courses/6-061-introduction-to-electric-power-systems-spring-2011/26fd0eed5131be5f8409b9a86aa88e10_MIT6_061S11_assn08_sol.pdf
+file: /ol-ocw-studio-app/courses/6-061-introduction-to-electric-power-systems-spring-2011/26fd0eed5131be5f8409b9a86aa88e10_MIT6_061S11_assn08_sol.pdf
 file_size: 213962
 file_type: application/pdf
 learning_resource_types:
