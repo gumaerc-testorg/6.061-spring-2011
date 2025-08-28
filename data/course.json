@@ -36,9 +36,10 @@
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Exams with Solutions",
-    "Online Textbook"
+    "Open Textbooks"
   ],
   "site_uid": "ef956c05-cc0e-400f-8c54-5ec46e0ab7a6",
   "site_short_id": "6.061-spring-2011",
+  "site_url_path": "courses/6-061-introduction-to-electric-power-systems-spring-2011",
   "title": "Course Metadata"
 }
